@@ -7,6 +7,7 @@ Utilities for cycling jobs on ISC infra or making checkpointing more robust.
 The `cycling_utils` package has the following dependencies.
 - `torch`
 - `torchvision`
+For personal use
 
 These are not installed with `cycling_utils` to allow the user freedom to install any version of torch and torchvision they require for their project.
 
